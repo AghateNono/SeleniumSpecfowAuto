@@ -8,7 +8,7 @@ namespace SeleniumSpecfowAuto.Pages
     public class HomeLoginPage
     {
         private readonly IWebDriver webDriver;
-        //Diwan is great!
+        //My sister is great!
         //Aganin Checking Testing
         
         //From Remote Machine or Reposiotory
